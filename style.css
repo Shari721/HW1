@@ -39,18 +39,34 @@ section {
 	color: #777;
 	float: left;
 	height: 200px;
-	z-index: 1;
 }
 
 .article {
 	background-color: #777;
 	color: #ebebeb;
-	width: 300px;
-	height: 150px;
-	z-index: 2;
-	z-index: auto;
+	width: 375px;
+	height: 135px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
 }
 
+.headers {
+	background-color: #ebebeb;
+	color: #777;
+	margin-left: 15px;
+	height: 35px;
+	width: 360px;
+	margin-bottom: 5px;
+}
+
+.p {
+	background-color: #ebebeb;
+	color: #777;
+	margin-left: 15px;
+	height: 35px;
+	width: 360px;
+}
 
 aside {
 	float: right;
